@@ -1,0 +1,18 @@
+a{
+    font-size: 400%;
+    text-decoration: none;
+    color: white;
+}
+*{
+    background: rgb(49, 9, 9);
+    font-family:'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
+}
+table , tr , td , th {
+    border: 1px white solid;
+    font-size: 150%;
+    color: white;
+}
+#o{
+    background: pink;
+    color: black;
+}
